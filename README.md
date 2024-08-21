@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AnujJindal
+- 👋 Hi, I’m @AnujJindal1
 - 👀 I’m interested in AI and ML
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on python AI and ML projects
@@ -7,6 +7,6 @@
 - ⚡ Fun fact: i am a beginner and still want to make a  project but i have a dedication and i know i will do it 
 
 <!---
-AnujJindal/AnujJindal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AnujJindal1/AnujJindal1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
